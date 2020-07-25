@@ -3,7 +3,7 @@ $conexion = mysqli_connect(
     'localhost',
     'henrymon',
     '1234',
-    'KARDEX'
+    'ACADEMICO'
 );
 
 if (isset($conexion)) {
